@@ -1,3 +1,0 @@
-<coroutine object main at 0xffffa8683140>
-sys:1: RuntimeWarning: coroutine 'main' was never awaited
-RuntimeWarning: Enable tracemalloc to get the object allocation traceback

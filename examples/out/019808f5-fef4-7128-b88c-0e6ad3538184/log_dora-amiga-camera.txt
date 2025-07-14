@@ -1,6 +1,0 @@
-Traceback (most recent call last):
-  File "/mnt/managed_home/farm-ng-user-edgar/amiga-dora-bridge/.venv/bin/dora-amiga-camera", line 5, in <module>
-    from dora_amiga.camera import main
-  File "/mnt/managed_home/farm-ng-user-edgar/amiga-dora-bridge/dora_amiga/camera.py", line 13, in <module>
-    import cv2
-ModuleNotFoundError: No module named 'cv2'

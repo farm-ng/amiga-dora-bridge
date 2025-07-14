@@ -1,3 +1,6 @@
+# Ignore the service config file
+examples/out
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
