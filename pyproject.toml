@@ -21,6 +21,8 @@ dev = ["pytest >=8.1.1", "ruff >=0.9.1"]
 
 [project.scripts]
 dora-amiga-camera = "dora_amiga.camera:main"
+dora-amiga-gps = "dora_amiga.gps:main"
+dora-amiga-canbus = "dora_amiga.canbus:main"
 
 [tool.ruff.lint]
 extend-select = [

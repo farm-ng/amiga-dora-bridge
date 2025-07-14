@@ -5,7 +5,7 @@ import asyncio
 
 from dora import Node
 from farm_ng.core.event_client import EventClient
-from farm_ng.core.event_service_pb2 import EventServiceConfig, EventServiceConfigList
+from farm_ng.core.event_service_pb2 import EventServiceConfigList
 from farm_ng.core.events_file_reader import proto_from_json_file
 
 import cv2
