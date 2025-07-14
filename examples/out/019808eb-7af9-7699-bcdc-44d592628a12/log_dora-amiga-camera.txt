@@ -1,0 +1,1587 @@
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5312.051854077
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496308.8155754
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5312.054013539
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5312.152561319
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496308.9162827
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5312.154357004
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5312.250427337
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496309.0141487
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5312.251755501
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5312.349883824
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496309.1136355
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5312.351339892
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5312.449833944
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496309.2135553
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5312.45130214
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5312.549811776
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496309.3135331
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5312.551041828
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5312.650252426
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496309.4139736
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5312.651660686
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5312.751152212
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496309.5148735
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5312.752537753
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5312.850792956
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496309.6145146
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5312.852262048
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5312.950558083
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496309.7142792
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5312.951739911
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5313.049848809
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496309.8135698
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5313.050974381
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5313.153193628
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496309.9169147
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5313.154399455
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5313.250266395
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496310.0139885
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5313.251446335
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5313.349934658
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496310.1136558
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5313.351056294
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5313.450398508
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496310.2141194
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5313.451587056
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5313.549869683
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496310.3135905
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5313.551043574
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5313.651593056
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496310.415314
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5313.653194373
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5313.749762339
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496310.5134835
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5313.750774214
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5313.85066571
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496310.6143868
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5313.852931893
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5313.950261941
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496310.7139828
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5313.951449336
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5314.050345181
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496310.8140662
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5314.051747042
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5314.15049655
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496310.9142182
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5314.151793962
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5314.249956813
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496311.0136783
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5314.250972912
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5314.349955957
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496311.113677
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5314.350975992
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5314.449880477
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496311.2136018
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5314.451079809
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5314.550377479
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496311.3140988
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5314.551638539
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5314.651109681
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496311.4148307
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5314.65262399
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5314.749887318
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496311.5136089
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5314.75129001
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5314.850366688
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496311.6140883
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5314.851730564
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5314.950449416
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496311.7141705
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5314.952110285
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5315.05089173
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496311.8146129
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5315.051963541
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33372
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5315.150022423
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496311.9137437
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5315.151077115
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5315.249785823
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496312.0135193
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5315.250978179
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5315.349829863
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496312.1135509
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5315.351110283
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5315.450665522
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496312.2143865
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5315.451842326
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5315.549907096
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496312.3136282
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5315.551034459
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5315.649856736
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496312.4135778
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5315.651166756
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5315.750819755
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496312.5145409
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5315.751939759
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5315.849822097
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496312.613543
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5315.851044852
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5315.949880377
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496312.7136014
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5315.951011004
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5316.049927234
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496312.8136482
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5316.051020165
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5316.149865418
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496312.9135864
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5316.150975661
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5316.250034162
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496313.0137553
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5316.251466647
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5316.349864282
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496313.1135852
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5316.351271774
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5316.450498532
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496313.2142196
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5316.451785672
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5316.549829547
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496313.3135505
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5316.55092555
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5316.649777395
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496313.4134984
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5316.650823542
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5316.74997958
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496313.5137005
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5316.751251231
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5316.850670886
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496313.614392
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5316.851727433
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5316.951110959
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496313.7148321
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5316.952363027
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5317.049788532
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496313.8135097
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5317.050789751
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5317.15050611
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496313.9142275
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5317.15172573
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5317.250494534
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496314.0142155
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5317.251617354
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5317.349905357
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496314.1136267
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5317.351009904
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5317.449822037
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496314.2135432
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5317.450912024
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5317.550828992
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496314.3145504
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5317.551964388
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5317.649818245
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496314.4135396
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5317.651034313
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5317.750316079
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496314.5140376
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5317.751897876
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5317.850056439
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496314.6137779
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5317.851255578
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5317.950481344
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496314.7142024
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5317.952266501
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5318.049982247
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496314.8137033
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5318.051164842
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33373
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5318.149764175
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496314.9134858
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5318.150826194
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33372
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5318.249774679
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496315.0134959
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5318.250872442
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5318.350451009
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496315.1141725
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5318.351501188
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5318.449764743
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496315.2134862
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5318.451044651
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5318.549860016
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496315.313581
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5318.551008659
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5318.64993724
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496315.4136586
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5318.651195068
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5318.749792416
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496315.5135136
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5318.751112164
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5318.849816041
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496315.6135378
+  clock_name: "green-guava/system_clock/UTC"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 5318.850899596
+  clock_name: "green-guava/monotonic"
+  semantics: "client/receive"
+}
+payload_length: 33371
+

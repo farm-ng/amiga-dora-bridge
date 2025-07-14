@@ -1,0 +1,339 @@
+Tick
+{'kind': 'dora', 'id': 'tick', 'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls, 'type': 'INPUT', 'metadata': {'open_telemetry_context': ''}}
+Tick
+{'id': 'tick', 'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls, 'kind': 'dora', 'metadata': {'open_telemetry_context': ''}, 'type': 'INPUT'}
+Tick
+{'id': 'tick', 'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls, 'kind': 'dora', 'type': 'INPUT', 'metadata': {'open_telemetry_context': ''}}
+Tick
+{'type': 'INPUT', 'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls, 'kind': 'dora', 'id': 'tick', 'metadata': {'open_telemetry_context': ''}}
+Tick
+{'kind': 'dora', 'type': 'INPUT', 'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls, 'id': 'tick', 'metadata': {'open_telemetry_context': ''}}
+Tick
+{'kind': 'dora', 'id': 'tick', 'type': 'INPUT', 'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls, 'metadata': {'open_telemetry_context': ''}}
+Tick
+{'kind': 'dora', 'metadata': {'open_telemetry_context': ''}, 'type': 'INPUT', 'id': 'tick', 'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls}
+Tick
+{'type': 'INPUT', 'kind': 'dora', 'id': 'tick', 'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls, 'metadata': {'open_telemetry_context': ''}}
+Tick
+{'metadata': {'open_telemetry_context': ''}, 'type': 'INPUT', 'kind': 'dora', 'id': 'tick', 'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls}
+Tick
+{'type': 'INPUT', 'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls, 'kind': 'dora', 'metadata': {'open_telemetry_context': ''}, 'id': 'tick'}
+Tick
+{'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls, 'metadata': {'open_telemetry_context': ''}, 'kind': 'dora', 'type': 'INPUT', 'id': 'tick'}
+Tick
+{'metadata': {'open_telemetry_context': ''}, 'id': 'tick', 'kind': 'dora', 'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls, 'type': 'INPUT'}
+Tick
+{'metadata': {'open_telemetry_context': ''}, 'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls, 'kind': 'dora', 'type': 'INPUT', 'id': 'tick'}
+Tick
+{'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls, 'kind': 'dora', 'type': 'INPUT', 'metadata': {'open_telemetry_context': ''}, 'id': 'tick'}
+Tick
+{'metadata': {'open_telemetry_context': ''}, 'kind': 'dora', 'id': 'tick', 'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls, 'type': 'INPUT'}
+Tick
+{'kind': 'dora', 'metadata': {'open_telemetry_context': ''}, 'id': 'tick', 'type': 'INPUT', 'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls}
+Tick
+{'metadata': {'open_telemetry_context': ''}, 'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls, 'type': 'INPUT', 'id': 'tick', 'kind': 'dora'}
+Tick
+{'metadata': {'open_telemetry_context': ''}, 'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls, 'id': 'tick', 'kind': 'dora', 'type': 'INPUT'}
+Tick
+{'type': 'INPUT', 'metadata': {'open_telemetry_context': ''}, 'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls, 'kind': 'dora', 'id': 'tick'}
+Tick
+{'kind': 'dora', 'id': 'tick', 'type': 'INPUT', 'metadata': {'open_telemetry_context': ''}, 'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls}
+Tick
+{'type': 'INPUT', 'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls, 'kind': 'dora', 'id': 'tick', 'metadata': {'open_telemetry_context': ''}}
+Tick
+{'type': 'INPUT', 'id': 'tick', 'kind': 'dora', 'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls, 'metadata': {'open_telemetry_context': ''}}
+Tick
+{'id': 'tick', 'type': 'INPUT', 'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls, 'kind': 'dora', 'metadata': {'open_telemetry_context': ''}}
+Tick
+{'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls, 'type': 'INPUT', 'kind': 'dora', 'metadata': {'open_telemetry_context': ''}, 'id': 'tick'}
+Tick
+{'kind': 'dora', 'metadata': {'open_telemetry_context': ''}, 'id': 'tick', 'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls, 'type': 'INPUT'}
+Tick
+{'metadata': {'open_telemetry_context': ''}, 'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls, 'id': 'tick', 'type': 'INPUT', 'kind': 'dora'}
+Tick
+{'metadata': {'open_telemetry_context': ''}, 'type': 'INPUT', 'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls, 'kind': 'dora', 'id': 'tick'}
+Tick
+{'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls, 'kind': 'dora', 'id': 'tick', 'type': 'INPUT', 'metadata': {'open_telemetry_context': ''}}
+Tick
+{'kind': 'dora', 'type': 'INPUT', 'id': 'tick', 'metadata': {'open_telemetry_context': ''}, 'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls}
+Tick
+{'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls, 'metadata': {'open_telemetry_context': ''}, 'type': 'INPUT', 'kind': 'dora', 'id': 'tick'}
+Tick
+{'type': 'INPUT', 'kind': 'dora', 'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls, 'metadata': {'open_telemetry_context': ''}, 'id': 'tick'}
+Tick
+{'id': 'tick', 'kind': 'dora', 'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls, 'metadata': {'open_telemetry_context': ''}, 'type': 'INPUT'}
+Tick
+{'kind': 'dora', 'id': 'tick', 'metadata': {'open_telemetry_context': ''}, 'type': 'INPUT', 'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls}
+Tick
+{'type': 'INPUT', 'metadata': {'open_telemetry_context': ''}, 'kind': 'dora', 'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls, 'id': 'tick'}
+Tick
+{'kind': 'dora', 'id': 'tick', 'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls, 'type': 'INPUT', 'metadata': {'open_telemetry_context': ''}}
+Tick
+{'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls, 'metadata': {'open_telemetry_context': ''}, 'id': 'tick', 'kind': 'dora', 'type': 'INPUT'}
+Tick
+{'kind': 'dora', 'type': 'INPUT', 'id': 'tick', 'metadata': {'open_telemetry_context': ''}, 'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls}
+Tick
+{'id': 'tick', 'metadata': {'open_telemetry_context': ''}, 'type': 'INPUT', 'kind': 'dora', 'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls}
+Tick
+{'type': 'INPUT', 'kind': 'dora', 'id': 'tick', 'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls, 'metadata': {'open_telemetry_context': ''}}
+Tick
+{'id': 'tick', 'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls, 'type': 'INPUT', 'kind': 'dora', 'metadata': {'open_telemetry_context': ''}}
+Tick
+{'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls, 'id': 'tick', 'metadata': {'open_telemetry_context': ''}, 'kind': 'dora', 'type': 'INPUT'}
+Tick
+{'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls, 'metadata': {'open_telemetry_context': ''}, 'kind': 'dora', 'type': 'INPUT', 'id': 'tick'}
+Tick
+{'metadata': {'open_telemetry_context': ''}, 'kind': 'dora', 'id': 'tick', 'type': 'INPUT', 'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls}
+Tick
+{'metadata': {'open_telemetry_context': ''}, 'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls, 'type': 'INPUT', 'id': 'tick', 'kind': 'dora'}
+Tick
+{'metadata': {'open_telemetry_context': ''}, 'kind': 'dora', 'type': 'INPUT', 'id': 'tick', 'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls}
+Tick
+{'type': 'INPUT', 'id': 'tick', 'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls, 'kind': 'dora', 'metadata': {'open_telemetry_context': ''}}
+Tick
+{'type': 'INPUT', 'kind': 'dora', 'metadata': {'open_telemetry_context': ''}, 'id': 'tick', 'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls}
+Tick
+{'metadata': {'open_telemetry_context': ''}, 'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls, 'kind': 'dora', 'id': 'tick', 'type': 'INPUT'}
+Tick
+{'type': 'INPUT', 'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls, 'kind': 'dora', 'metadata': {'open_telemetry_context': ''}, 'id': 'tick'}
+Tick
+{'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls, 'type': 'INPUT', 'kind': 'dora', 'metadata': {'open_telemetry_context': ''}, 'id': 'tick'}
+Tick
+{'kind': 'dora', 'type': 'INPUT', 'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls, 'metadata': {'open_telemetry_context': ''}, 'id': 'tick'}
+Tick
+{'id': 'tick', 'type': 'INPUT', 'metadata': {'open_telemetry_context': ''}, 'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls, 'kind': 'dora'}
+Tick
+{'kind': 'dora', 'type': 'INPUT', 'id': 'tick', 'metadata': {'open_telemetry_context': ''}, 'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls}
+Tick
+{'type': 'INPUT', 'kind': 'dora', 'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls, 'id': 'tick', 'metadata': {'open_telemetry_context': ''}}
+Tick
+{'type': 'INPUT', 'id': 'tick', 'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls, 'kind': 'dora', 'metadata': {'open_telemetry_context': ''}}
+Tick
+{'id': 'tick', 'metadata': {'open_telemetry_context': ''}, 'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls, 'type': 'INPUT', 'kind': 'dora'}
+Tick
+{'kind': 'dora', 'id': 'tick', 'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls, 'metadata': {'open_telemetry_context': ''}, 'type': 'INPUT'}
+Tick
+{'kind': 'dora', 'id': 'tick', 'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls, 'metadata': {'open_telemetry_context': ''}, 'type': 'INPUT'}
+Tick
+{'type': 'INPUT', 'kind': 'dora', 'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls, 'id': 'tick', 'metadata': {'open_telemetry_context': ''}}
+Tick
+{'id': 'tick', 'kind': 'dora', 'metadata': {'open_telemetry_context': ''}, 'type': 'INPUT', 'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls}
+Tick
+{'type': 'INPUT', 'kind': 'dora', 'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls, 'id': 'tick', 'metadata': {'open_telemetry_context': ''}}
+Tick
+{'metadata': {'open_telemetry_context': ''}, 'id': 'tick', 'type': 'INPUT', 'kind': 'dora', 'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls}
+Tick
+{'metadata': {'open_telemetry_context': ''}, 'kind': 'dora', 'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls, 'id': 'tick', 'type': 'INPUT'}
+Tick
+{'id': 'tick', 'type': 'INPUT', 'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls, 'kind': 'dora', 'metadata': {'open_telemetry_context': ''}}
+Tick
+{'id': 'tick', 'kind': 'dora', 'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls, 'metadata': {'open_telemetry_context': ''}, 'type': 'INPUT'}
+Tick
+{'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls, 'kind': 'dora', 'type': 'INPUT', 'metadata': {'open_telemetry_context': ''}, 'id': 'tick'}
+Tick
+{'kind': 'dora', 'type': 'INPUT', 'id': 'tick', 'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls, 'metadata': {'open_telemetry_context': ''}}
+Tick
+{'kind': 'dora', 'id': 'tick', 'type': 'INPUT', 'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls, 'metadata': {'open_telemetry_context': ''}}
+Tick
+{'kind': 'dora', 'type': 'INPUT', 'id': 'tick', 'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls, 'metadata': {'open_telemetry_context': ''}}
+Tick
+{'metadata': {'open_telemetry_context': ''}, 'type': 'INPUT', 'kind': 'dora', 'id': 'tick', 'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls}
+Tick
+{'id': 'tick', 'type': 'INPUT', 'kind': 'dora', 'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls, 'metadata': {'open_telemetry_context': ''}}
+Tick
+{'type': 'INPUT', 'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls, 'metadata': {'open_telemetry_context': ''}, 'id': 'tick', 'kind': 'dora'}
+Tick
+{'metadata': {'open_telemetry_context': ''}, 'id': 'tick', 'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls, 'kind': 'dora', 'type': 'INPUT'}
+Tick
+{'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls, 'kind': 'dora', 'metadata': {'open_telemetry_context': ''}, 'id': 'tick', 'type': 'INPUT'}
+Tick
+{'kind': 'dora', 'id': 'tick', 'type': 'INPUT', 'metadata': {'open_telemetry_context': ''}, 'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls}
+Tick
+{'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls, 'kind': 'dora', 'id': 'tick', 'metadata': {'open_telemetry_context': ''}, 'type': 'INPUT'}
+Tick
+{'type': 'INPUT', 'id': 'tick', 'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls, 'metadata': {'open_telemetry_context': ''}, 'kind': 'dora'}
+Tick
+{'type': 'INPUT', 'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls, 'metadata': {'open_telemetry_context': ''}, 'id': 'tick', 'kind': 'dora'}
+Tick
+{'kind': 'dora', 'type': 'INPUT', 'id': 'tick', 'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls, 'metadata': {'open_telemetry_context': ''}}
+Tick
+{'type': 'INPUT', 'id': 'tick', 'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls, 'kind': 'dora', 'metadata': {'open_telemetry_context': ''}}
+Tick
+{'metadata': {'open_telemetry_context': ''}, 'type': 'INPUT', 'id': 'tick', 'kind': 'dora', 'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls}
+Tick
+{'metadata': {'open_telemetry_context': ''}, 'type': 'INPUT', 'kind': 'dora', 'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls, 'id': 'tick'}
+Tick
+{'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls, 'kind': 'dora', 'id': 'tick', 'metadata': {'open_telemetry_context': ''}, 'type': 'INPUT'}
+Tick
+{'kind': 'dora', 'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls, 'id': 'tick', 'metadata': {'open_telemetry_context': ''}, 'type': 'INPUT'}
+Tick
+{'id': 'tick', 'kind': 'dora', 'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls, 'metadata': {'open_telemetry_context': ''}, 'type': 'INPUT'}
+Tick
+{'kind': 'dora', 'type': 'INPUT', 'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls, 'metadata': {'open_telemetry_context': ''}, 'id': 'tick'}
+Tick
+{'metadata': {'open_telemetry_context': ''}, 'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls, 'kind': 'dora', 'type': 'INPUT', 'id': 'tick'}
+Tick
+{'kind': 'dora', 'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls, 'metadata': {'open_telemetry_context': ''}, 'id': 'tick', 'type': 'INPUT'}
+Tick
+{'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls, 'metadata': {'open_telemetry_context': ''}, 'kind': 'dora', 'id': 'tick', 'type': 'INPUT'}
+Tick
+{'metadata': {'open_telemetry_context': ''}, 'type': 'INPUT', 'kind': 'dora', 'id': 'tick', 'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls}
+Tick
+{'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls, 'metadata': {'open_telemetry_context': ''}, 'kind': 'dora', 'id': 'tick', 'type': 'INPUT'}
+Tick
+{'type': 'INPUT', 'id': 'tick', 'kind': 'dora', 'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls, 'metadata': {'open_telemetry_context': ''}}
+Tick
+{'id': 'tick', 'kind': 'dora', 'type': 'INPUT', 'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls, 'metadata': {'open_telemetry_context': ''}}
+Tick
+{'kind': 'dora', 'id': 'tick', 'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls, 'type': 'INPUT', 'metadata': {'open_telemetry_context': ''}}
+Tick
+{'type': 'INPUT', 'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls, 'id': 'tick', 'metadata': {'open_telemetry_context': ''}, 'kind': 'dora'}
+Tick
+{'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls, 'type': 'INPUT', 'kind': 'dora', 'id': 'tick', 'metadata': {'open_telemetry_context': ''}}
+Tick
+{'id': 'tick', 'kind': 'dora', 'metadata': {'open_telemetry_context': ''}, 'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls, 'type': 'INPUT'}
+Tick
+{'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls, 'id': 'tick', 'type': 'INPUT', 'kind': 'dora', 'metadata': {'open_telemetry_context': ''}}
+Tick
+{'kind': 'dora', 'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls, 'id': 'tick', 'metadata': {'open_telemetry_context': ''}, 'type': 'INPUT'}
+Tick
+{'id': 'tick', 'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls, 'kind': 'dora', 'metadata': {'open_telemetry_context': ''}, 'type': 'INPUT'}
+Tick
+{'metadata': {'open_telemetry_context': ''}, 'id': 'tick', 'type': 'INPUT', 'kind': 'dora', 'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls}
+Tick
+{'metadata': {'open_telemetry_context': ''}, 'id': 'tick', 'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls, 'kind': 'dora', 'type': 'INPUT'}
+Tick
+{'kind': 'dora', 'id': 'tick', 'type': 'INPUT', 'metadata': {'open_telemetry_context': ''}, 'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls}
+Tick
+{'type': 'INPUT', 'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls, 'id': 'tick', 'metadata': {'open_telemetry_context': ''}, 'kind': 'dora'}
+Tick
+{'metadata': {'open_telemetry_context': ''}, 'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls, 'id': 'tick', 'type': 'INPUT', 'kind': 'dora'}
+Tick
+{'id': 'tick', 'kind': 'dora', 'type': 'INPUT', 'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls, 'metadata': {'open_telemetry_context': ''}}
+Tick
+{'metadata': {'open_telemetry_context': ''}, 'kind': 'dora', 'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls, 'type': 'INPUT', 'id': 'tick'}
+Tick
+{'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls, 'id': 'tick', 'metadata': {'open_telemetry_context': ''}, 'type': 'INPUT', 'kind': 'dora'}
+Tick
+{'id': 'tick', 'metadata': {'open_telemetry_context': ''}, 'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls, 'kind': 'dora', 'type': 'INPUT'}
+Tick
+{'metadata': {'open_telemetry_context': ''}, 'type': 'INPUT', 'kind': 'dora', 'id': 'tick', 'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls}
+Tick
+{'metadata': {'open_telemetry_context': ''}, 'id': 'tick', 'type': 'INPUT', 'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls, 'kind': 'dora'}
+Tick
+{'id': 'tick', 'metadata': {'open_telemetry_context': ''}, 'value': <pyarrow.lib.NullArray object at 0xffff82356fe0>
+0 nulls, 'kind': 'dora', 'type': 'INPUT'}
+Tick
+{'kind': 'dora', 'value': <pyarrow.lib.NullArray object at 0xffff823573a0>
+0 nulls, 'type': 'INPUT', 'id': 'tick', 'metadata': {'open_telemetry_context': ''}}

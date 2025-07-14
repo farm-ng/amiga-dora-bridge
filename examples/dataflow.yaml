@@ -1,0 +1,9 @@
+nodes:
+  - id: dora-amiga-camera
+    build: pip install -e ../dora_amiga
+    path: dora-amiga-camera
+    inputs:
+      tick: dora/timer/millis/30
+    outputs:
+      - oak0/rgb
+      - oak1/rgb

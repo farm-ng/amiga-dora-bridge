@@ -1,0 +1,28 @@
+> /mnt/managed_home/farm-ng-user-edgar/amiga-dora-bridge/dora_amiga/camera.py(27)run_camera_bridge()
+-> client = EventClient(config)
+(Pdb) 
+Traceback (most recent call last):
+  File "/mnt/managed_home/farm-ng-user-edgar/amiga-dora-bridge/.venv/bin/dora-amiga-camera", line 8, in <module>
+    sys.exit(main())
+             ^^^^^^
+  File "/mnt/managed_home/farm-ng-user-edgar/amiga-dora-bridge/dora_amiga/camera.py", line 59, in main
+    asyncio.run(run_camera_bridge())
+  File "/mnt/managed_home/farm-ng-user-edgar/.local/share/uv/python/cpython-3.11.12-linux-aarch64-gnu/lib/python3.11/asyncio/runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "/mnt/managed_home/farm-ng-user-edgar/.local/share/uv/python/cpython-3.11.12-linux-aarch64-gnu/lib/python3.11/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/managed_home/farm-ng-user-edgar/.local/share/uv/python/cpython-3.11.12-linux-aarch64-gnu/lib/python3.11/asyncio/base_events.py", line 654, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "/mnt/managed_home/farm-ng-user-edgar/amiga-dora-bridge/dora_amiga/camera.py", line 27, in run_camera_bridge
+    client = EventClient(config)
+             ^^^^^^^^^^^
+  File "/mnt/managed_home/farm-ng-user-edgar/.local/share/uv/python/cpython-3.11.12-linux-aarch64-gnu/lib/python3.11/bdb.py", line 90, in trace_dispatch
+    return self.dispatch_line(frame)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/managed_home/farm-ng-user-edgar/.local/share/uv/python/cpython-3.11.12-linux-aarch64-gnu/lib/python3.11/bdb.py", line 115, in dispatch_line
+    if self.quitting: raise BdbQuit
+                      ^^^^^^^^^^^^^
+bdb.BdbQuit

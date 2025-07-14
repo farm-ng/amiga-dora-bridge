@@ -1,0 +1,58 @@
+uri {
+  scheme: "protobuf"
+  authority: "green-guava"
+  path: "/rgb"
+  query: "type=farm_ng.oak.proto.OakFrame&pb=farm_ng/oak/oak.proto&service_name=oak0"
+}
+timestamps {
+  stamp: 5976.751708553
+  clock_name: "green-guava/monotonic"
+  semantics: "service/send"
+}
+timestamps {
+  stamp: 1752496973.51543
+  clock_name: "green-guava/system_clock/UTC"
+Traceback (most recent call last):
+  semantics: "service/send"
+  File "/mnt/managed_home/farm-ng-user-edgar/amiga-dora-bridge/.venv/bin/dora-amiga-camera", line 8, in <module>
+}
+    sys.exit(main())
+timestamps {
+             ^^^^^^
+  stamp: 5976.753698671
+  File "/mnt/managed_home/farm-ng-user-edgar/amiga-dora-bridge/dora_amiga/camera.py", line 62, in main
+  clock_name: "green-guava/monotonic"
+    asyncio.run(run_camera_bridge())
+  semantics: "client/receive"
+  File "/mnt/managed_home/farm-ng-user-edgar/.local/share/uv/python/cpython-3.11.12-linux-aarch64-gnu/lib/python3.11/asyncio/runners.py", line 190, in run
+}
+    return runner.run(main)
+payload_length: 33371
+           ^^^^^^^^^^^^^^^^
+
+  File "/mnt/managed_home/farm-ng-user-edgar/.local/share/uv/python/cpython-3.11.12-linux-aarch64-gnu/lib/python3.11/asyncio/runners.py", line 118, in run
+sequence_num: 59058
+    return self._loop.run_until_complete(task)
+timestamp: 5976.719212768
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+timestamp_device: 5911.608206767
+  File "/mnt/managed_home/farm-ng-user-edgar/.local/share/uv/python/cpython-3.11.12-linux-aarch64-gnu/lib/python3.11/asyncio/base_events.py", line 654, in run_until_complete
+settings {
+    return future.result()
+  exposure_time: 30001
+           ^^^^^^^^^^^^^^^
+  iso_value: 1599
+  File "/mnt/managed_home/farm-ng-user-edgar/amiga-dora-bridge/dora_amiga/camera.py", line 39, in run_camera_bridge
+  lens_pos: 4294967295
+    image_bgr8 = cv2.imdecode(np.frombuffer(message.image_data, dtype="uint8"), cv2.IMREAD_UNCHANGED)
+}
+                 ^^^
+timestamp_recv: 5976.751378953
+NameError: name 'cv2' is not defined
+encoder_options {
+  profile: MJPEG
+  cbr_preferred_bitrate_kbps: 1000
+  vbr_or_mjpeg_quality: 80
+  frames_per_keyframe: 30
+}
+

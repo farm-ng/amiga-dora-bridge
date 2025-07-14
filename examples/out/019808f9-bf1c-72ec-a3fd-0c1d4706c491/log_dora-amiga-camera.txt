@@ -1,0 +1,560 @@
+sequence_num: 61761
+timestamp: 6247.019906046
+timestamp_device: 6181.908192104
+settings {
+  exposure_time: 30001
+  iso_value: 1599
+  lens_pos: 4294967295
+}
+timestamp_recv: 6247.052430003
+encoder_options {
+  profile: MJPEG
+  cbr_preferred_bitrate_kbps: 1000
+  vbr_or_mjpeg_quality: 80
+  frames_per_keyframe: 30
+}
+
+sequence_num: 61762
+timestamp: 6247.119891916
+timestamp_device: 6182.008177974
+settings {
+  exposure_time: 30001
+  iso_value: 1599
+  lens_pos: 4294967295
+}
+timestamp_recv: 6247.152743837
+encoder_options {
+  profile: MJPEG
+  cbr_preferred_bitrate_kbps: 1000
+  vbr_or_mjpeg_quality: 80
+  frames_per_keyframe: 30
+}
+
+sequence_num: 61763
+timestamp: 6247.219907966
+timestamp_device: 6182.108194024
+settings {
+  exposure_time: 30001
+  iso_value: 1599
+  lens_pos: 4294967295
+}
+timestamp_recv: 6247.252666949
+encoder_options {
+  profile: MJPEG
+  cbr_preferred_bitrate_kbps: 1000
+  vbr_or_mjpeg_quality: 80
+  frames_per_keyframe: 30
+}
+
+sequence_num: 61764
+timestamp: 6247.319893873
+timestamp_device: 6182.208179931
+settings {
+  exposure_time: 30001
+  iso_value: 1599
+  lens_pos: 4294967295
+}
+timestamp_recv: 6247.3519859
+encoder_options {
+  profile: MJPEG
+  cbr_preferred_bitrate_kbps: 1000
+  vbr_or_mjpeg_quality: 80
+  frames_per_keyframe: 30
+}
+
+sequence_num: 61765
+timestamp: 6247.419910034
+timestamp_device: 6182.308196092
+settings {
+  exposure_time: 30001
+  iso_value: 1599
+  lens_pos: 4294967295
+}
+timestamp_recv: 6247.452088854
+encoder_options {
+  profile: MJPEG
+  cbr_preferred_bitrate_kbps: 1000
+  vbr_or_mjpeg_quality: 80
+  frames_per_keyframe: 30
+}
+
+sequence_num: 61766
+timestamp: 6247.519895806
+timestamp_device: 6182.408181864
+settings {
+  exposure_time: 30001
+  iso_value: 1599
+  lens_pos: 4294967295
+}
+timestamp_recv: 6247.551980894
+encoder_options {
+  profile: MJPEG
+  cbr_preferred_bitrate_kbps: 1000
+  vbr_or_mjpeg_quality: 80
+  frames_per_keyframe: 30
+}
+
+sequence_num: 61767
+timestamp: 6247.619904277
+timestamp_device: 6182.508190335
+settings {
+  exposure_time: 30001
+  iso_value: 1599
+  lens_pos: 4294967295
+}
+timestamp_recv: 6247.653202155
+encoder_options {
+  profile: MJPEG
+  cbr_preferred_bitrate_kbps: 1000
+  vbr_or_mjpeg_quality: 80
+  frames_per_keyframe: 30
+}
+
+sequence_num: 61768
+timestamp: 6247.719890196
+timestamp_device: 6182.608176254
+settings {
+  exposure_time: 30001
+  iso_value: 1599
+  lens_pos: 4294967295
+}
+timestamp_recv: 6247.75196584
+encoder_options {
+  profile: MJPEG
+  cbr_preferred_bitrate_kbps: 1000
+  vbr_or_mjpeg_quality: 80
+  frames_per_keyframe: 30
+}
+
+sequence_num: 61769
+timestamp: 6247.819898869
+timestamp_device: 6182.708184927
+settings {
+  exposure_time: 30001
+  iso_value: 1599
+  lens_pos: 4294967295
+}
+timestamp_recv: 6247.851963193
+encoder_options {
+  profile: MJPEG
+  cbr_preferred_bitrate_kbps: 1000
+  vbr_or_mjpeg_quality: 80
+  frames_per_keyframe: 30
+}
+
+sequence_num: 61770
+timestamp: 6247.919884774
+timestamp_device: 6182.808170832
+settings {
+  exposure_time: 30001
+  iso_value: 1599
+  lens_pos: 4294967295
+}
+timestamp_recv: 6247.951976418
+encoder_options {
+  profile: MJPEG
+  cbr_preferred_bitrate_kbps: 1000
+  vbr_or_mjpeg_quality: 80
+  frames_per_keyframe: 30
+}
+
+sequence_num: 61771
+timestamp: 6248.019900709
+timestamp_device: 6182.908186767
+settings {
+  exposure_time: 30001
+  iso_value: 1599
+  lens_pos: 4294967295
+}
+timestamp_recv: 6248.051993515
+encoder_options {
+  profile: MJPEG
+  cbr_preferred_bitrate_kbps: 1000
+  vbr_or_mjpeg_quality: 80
+  frames_per_keyframe: 30
+}
+
+sequence_num: 61772
+timestamp: 6248.11988698
+timestamp_device: 6183.008173038
+settings {
+  exposure_time: 30001
+  iso_value: 1599
+  lens_pos: 4294967295
+}
+timestamp_recv: 6248.15249967
+encoder_options {
+  profile: MJPEG
+  cbr_preferred_bitrate_kbps: 1000
+  vbr_or_mjpeg_quality: 80
+  frames_per_keyframe: 30
+}
+
+sequence_num: 61773
+timestamp: 6248.219902786
+timestamp_device: 6183.108188844
+settings {
+  exposure_time: 30001
+  iso_value: 1599
+  lens_pos: 4294967295
+}
+timestamp_recv: 6248.251987261
+encoder_options {
+  profile: MJPEG
+  cbr_preferred_bitrate_kbps: 1000
+  vbr_or_mjpeg_quality: 80
+  frames_per_keyframe: 30
+}
+
+sequence_num: 61774
+timestamp: 6248.319888929
+timestamp_device: 6183.208174987
+settings {
+  exposure_time: 30001
+  iso_value: 1599
+  lens_pos: 4294967295
+}
+timestamp_recv: 6248.352079174
+encoder_options {
+  profile: MJPEG
+  cbr_preferred_bitrate_kbps: 1000
+  vbr_or_mjpeg_quality: 80
+  frames_per_keyframe: 30
+}
+
+sequence_num: 61775
+timestamp: 6248.419904516
+timestamp_device: 6183.308190574
+settings {
+  exposure_time: 30001
+  iso_value: 1599
+  lens_pos: 4294967295
+}
+timestamp_recv: 6248.452086639
+encoder_options {
+  profile: MJPEG
+  cbr_preferred_bitrate_kbps: 1000
+  vbr_or_mjpeg_quality: 80
+  frames_per_keyframe: 30
+}
+
+sequence_num: 61776
+timestamp: 6248.519890462
+timestamp_device: 6183.40817652
+settings {
+  exposure_time: 30001
+  iso_value: 1599
+  lens_pos: 4294967295
+}
+timestamp_recv: 6248.552827899
+encoder_options {
+  profile: MJPEG
+  cbr_preferred_bitrate_kbps: 1000
+  vbr_or_mjpeg_quality: 80
+  frames_per_keyframe: 30
+}
+
+sequence_num: 61777
+timestamp: 6248.619991155
+timestamp_device: 6183.508192474
+settings {
+  exposure_time: 30001
+  iso_value: 1599
+  lens_pos: 4294967295
+}
+timestamp_recv: 6248.652737123
+encoder_options {
+  profile: MJPEG
+  cbr_preferred_bitrate_kbps: 1000
+  vbr_or_mjpeg_quality: 80
+  frames_per_keyframe: 30
+}
+
+sequence_num: 61778
+timestamp: 6248.719976948
+timestamp_device: 6183.608178267
+settings {
+  exposure_time: 30001
+  iso_value: 1599
+  lens_pos: 4294967295
+}
+timestamp_recv: 6248.752086634
+encoder_options {
+  profile: MJPEG
+  cbr_preferred_bitrate_kbps: 1000
+  vbr_or_mjpeg_quality: 80
+  frames_per_keyframe: 30
+}
+
+sequence_num: 61779
+timestamp: 6248.819993095
+timestamp_device: 6183.708194414
+settings {
+  exposure_time: 30001
+  iso_value: 1599
+  lens_pos: 4294967295
+}
+timestamp_recv: 6248.852153012
+encoder_options {
+  profile: MJPEG
+  cbr_preferred_bitrate_kbps: 1000
+  vbr_or_mjpeg_quality: 80
+  frames_per_keyframe: 30
+}
+
+sequence_num: 61780
+timestamp: 6248.919978983
+timestamp_device: 6183.808180302
+settings {
+  exposure_time: 30001
+  iso_value: 1599
+  lens_pos: 4294967295
+}
+timestamp_recv: 6248.952098236
+encoder_options {
+  profile: MJPEG
+  cbr_preferred_bitrate_kbps: 1000
+  vbr_or_mjpeg_quality: 80
+  frames_per_keyframe: 30
+}
+
+sequence_num: 61781
+timestamp: 6249.019995102
+timestamp_device: 6183.908196421
+settings {
+  exposure_time: 30001
+  iso_value: 1599
+  lens_pos: 4294967295
+}
+timestamp_recv: 6249.052082853
+encoder_options {
+  profile: MJPEG
+  cbr_preferred_bitrate_kbps: 1000
+  vbr_or_mjpeg_quality: 80
+  frames_per_keyframe: 30
+}
+
+sequence_num: 61782
+timestamp: 6249.119980808
+timestamp_device: 6184.008182127
+settings {
+  exposure_time: 30001
+  iso_value: 1599
+  lens_pos: 4294967295
+}
+timestamp_recv: 6249.152184559
+encoder_options {
+  profile: MJPEG
+  cbr_preferred_bitrate_kbps: 1000
+  vbr_or_mjpeg_quality: 80
+  frames_per_keyframe: 30
+}
+
+sequence_num: 61783
+timestamp: 6249.219989653
+timestamp_device: 6184.108190972
+settings {
+  exposure_time: 30001
+  iso_value: 1599
+  lens_pos: 4294967295
+}
+timestamp_recv: 6249.253100794
+encoder_options {
+  profile: MJPEG
+  cbr_preferred_bitrate_kbps: 1000
+  vbr_or_mjpeg_quality: 80
+  frames_per_keyframe: 30
+}
+
+sequence_num: 61784
+timestamp: 6249.319975471
+timestamp_device: 6184.20817679
+settings {
+  exposure_time: 30001
+  iso_value: 1599
+  lens_pos: 4294967295
+}
+timestamp_recv: 6249.355081161
+encoder_options {
+  profile: MJPEG
+  cbr_preferred_bitrate_kbps: 1000
+  vbr_or_mjpeg_quality: 80
+  frames_per_keyframe: 30
+}
+
+sequence_num: 61785
+timestamp: 6249.419983748
+timestamp_device: 6184.308185067
+settings {
+  exposure_time: 30001
+  iso_value: 1599
+  lens_pos: 4294967295
+}
+timestamp_recv: 6249.452520523
+encoder_options {
+  profile: MJPEG
+  cbr_preferred_bitrate_kbps: 1000
+  vbr_or_mjpeg_quality: 80
+  frames_per_keyframe: 30
+}
+
+sequence_num: 61786
+timestamp: 6249.519969681
+timestamp_device: 6184.408171
+settings {
+  exposure_time: 30001
+  iso_value: 1599
+  lens_pos: 4294967295
+}
+timestamp_recv: 6249.552709812
+encoder_options {
+  profile: MJPEG
+  cbr_preferred_bitrate_kbps: 1000
+  vbr_or_mjpeg_quality: 80
+  frames_per_keyframe: 30
+}
+
+sequence_num: 61787
+timestamp: 6249.619985802
+timestamp_device: 6184.508187121
+settings {
+  exposure_time: 30001
+  iso_value: 1599
+  lens_pos: 4294967295
+}
+timestamp_recv: 6249.652793853
+encoder_options {
+  profile: MJPEG
+  cbr_preferred_bitrate_kbps: 1000
+  vbr_or_mjpeg_quality: 80
+  frames_per_keyframe: 30
+}
+
+sequence_num: 61788
+timestamp: 6249.719971611
+timestamp_device: 6184.60817293
+settings {
+  exposure_time: 30001
+  iso_value: 1599
+  lens_pos: 4294967295
+}
+timestamp_recv: 6249.756316433
+encoder_options {
+  profile: MJPEG
+  cbr_preferred_bitrate_kbps: 1000
+  vbr_or_mjpeg_quality: 80
+  frames_per_keyframe: 30
+}
+
+sequence_num: 61789
+timestamp: 6249.819988005
+timestamp_device: 6184.708189324
+settings {
+  exposure_time: 30001
+  iso_value: 1599
+  lens_pos: 4294967295
+}
+timestamp_recv: 6249.864122449
+encoder_options {
+  profile: MJPEG
+  cbr_preferred_bitrate_kbps: 1000
+  vbr_or_mjpeg_quality: 80
+  frames_per_keyframe: 30
+}
+
+sequence_num: 61790
+timestamp: 6249.919973643
+timestamp_device: 6184.808174962
+settings {
+  exposure_time: 30001
+  iso_value: 1599
+  lens_pos: 4294967295
+}
+timestamp_recv: 6249.952111606
+encoder_options {
+  profile: MJPEG
+  cbr_preferred_bitrate_kbps: 1000
+  vbr_or_mjpeg_quality: 80
+  frames_per_keyframe: 30
+}
+
+sequence_num: 61791
+timestamp: 6250.019989965
+timestamp_device: 6184.908191284
+settings {
+  exposure_time: 30001
+  iso_value: 1599
+  lens_pos: 4294967295
+}
+timestamp_recv: 6250.053878692
+encoder_options {
+  profile: MJPEG
+  cbr_preferred_bitrate_kbps: 1000
+  vbr_or_mjpeg_quality: 80
+  frames_per_keyframe: 30
+}
+
+sequence_num: 61792
+timestamp: 6250.119975521
+timestamp_device: 6185.00817684
+settings {
+  exposure_time: 30001
+  iso_value: 1599
+  lens_pos: 4294967295
+}
+timestamp_recv: 6250.153270092
+encoder_options {
+  profile: MJPEG
+  cbr_preferred_bitrate_kbps: 1000
+  vbr_or_mjpeg_quality: 80
+  frames_per_keyframe: 30
+}
+
+sequence_num: 61793
+timestamp: 6250.219991373
+timestamp_device: 6185.108192692
+settings {
+  exposure_time: 30001
+  iso_value: 1599
+  lens_pos: 4294967295
+}
+timestamp_recv: 6250.252745971
+encoder_options {
+  profile: MJPEG
+  cbr_preferred_bitrate_kbps: 1000
+  vbr_or_mjpeg_quality: 80
+  frames_per_keyframe: 30
+}
+
+sequence_num: 61794
+timestamp: 6250.319977385
+timestamp_device: 6185.208178704
+settings {
+  exposure_time: 30001
+  iso_value: 1599
+  lens_pos: 4294967295
+}
+timestamp_recv: 6250.35408544
+encoder_options {
+  profile: MJPEG
+  cbr_preferred_bitrate_kbps: 1000
+  vbr_or_mjpeg_quality: 80
+  frames_per_keyframe: 30
+}
+
+sequence_num: 61795
+timestamp: 6250.419993445
+timestamp_device: 6185.308194764
+settings {
+  exposure_time: 30001
+  iso_value: 1599
+  lens_pos: 4294967295
+}
+timestamp_recv: 6250.45630888
+encoder_options {
+  profile: MJPEG
+  cbr_preferred_bitrate_kbps: 1000
+  vbr_or_mjpeg_quality: 80
+  frames_per_keyframe: 30
+}
+

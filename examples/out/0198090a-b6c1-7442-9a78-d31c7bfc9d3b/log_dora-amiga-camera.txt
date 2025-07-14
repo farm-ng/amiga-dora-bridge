@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "/mnt/managed_home/farm-ng-user-edgar/amiga-dora-bridge/.venv/bin/dora-amiga-camera", line 5, in <module>
+    from dora_amiga.camera import main
+  File "/mnt/managed_home/farm-ng-user-edgar/amiga-dora-bridge/dora_amiga/camera.py", line 18, in <module>
+    async def next_event_and_decode(subscription: AsyncGenerator[Tuple[Event, EventMessage], None]) -> Tuple[Event, EventMessage]:
+                                                  ^^^^^^^^^^^^^^
+NameError: name 'AsyncGenerator' is not defined
