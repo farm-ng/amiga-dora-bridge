@@ -7,6 +7,7 @@ from dora import Node
 from farm_ng.core.event_client import EventClient
 from farm_ng.core.event_service_pb2 import EventServiceConfigList
 from farm_ng.core.events_file_reader import proto_from_json_file
+import pyarrow as pa
 
 
 async def run_gps_bridge() -> None:
@@ -34,8 +35,20 @@ async def run_gps_bridge() -> None:
             if event["id"] == "tick":
                 # decode and send the image from the first camera
                 event, message = await anext(subscriptions)
-                print(event)
-                print(message)
+
+                # get the timestamp when the message was received by the driver
+                timestamp = event.timestamps[0]
+                assert timestamp.semantics == "driver/receive"
+
+                # send the twist2d message
+                node.send_output(
+                    "twist",
+                    pa.array([message.linear_velocity_x, message.linear_velocity_y, message.angular_velocity]),
+                    metadata={
+                        "schema": "Twist2d:vx,vy,w",
+                        "stamp": timestamp.stamp,
+                    }
+                )
 
 def main() -> None:
     """Main function for the Amiga GPS bridge."""

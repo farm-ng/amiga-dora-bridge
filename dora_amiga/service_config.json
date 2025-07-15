@@ -53,7 +53,7 @@
             "subscriptions": [
                 {
                     "uri": {
-                        "path": "/motor_states",
+                        "path": "/twist",
                         "query": "service_name=canbus"
                     },
                     "every_n": 1
