@@ -33,7 +33,14 @@ async def run_gps_bridge() -> None:
         if event["type"] == "INPUT":
             if event["id"] == "tick":
                 # decode and send the image from the first camera
-                event, message = await anext(subscription)
+                try:
+                    event, message = await asyncio.wait_for(
+                        anext(subscription), timeout=0.1)
+                except asyncio.TimeoutError:
+                    continue
+                except StopAsyncIteration:
+                    continue
+
                 # TODO: send the message to the next node
                 # print(event)
                 # print(message)

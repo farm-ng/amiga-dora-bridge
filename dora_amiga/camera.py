@@ -48,7 +48,15 @@ async def run_camera_bridge() -> None:
         if event["type"] == "INPUT":
             if event["id"] == "tick":
                 # decode and send the image from the first camera
-                message, image_rgb8 = await next_event_and_decode(subscription_oak0)
+                try:
+                    message, image_rgb8 = await asyncio.wait_for(
+                        next_event_and_decode(subscription_oak0), timeout=0.1)
+                except asyncio.TimeoutError:
+                    continue
+                except StopAsyncIteration:
+                    continue
+
+                # send the message to the next node
                 node.send_output(
                     "oak0/rgb",
                     pa.array(image_rgb8.ravel()),
@@ -62,7 +70,15 @@ async def run_camera_bridge() -> None:
                 )
 
                 # decode and send the image from the second camera
-                message, image_rgb8 = await next_event_and_decode(subscription_oak1)
+                try:
+                    message, image_rgb8 = await asyncio.wait_for(
+                        next_event_and_decode(subscription_oak1), timeout=0.1)
+                except asyncio.TimeoutError:
+                    continue
+                except StopAsyncIteration:
+                    continue
+
+                # send the message to the next node
                 node.send_output(
                     "oak1/rgb",
                     pa.array(image_rgb8.ravel()),

@@ -42,7 +42,13 @@ async def run_imu_bridge() -> None:
         if event["type"] == "INPUT":
             if event["id"] == "tick":
                 # decode and send the IMU data from the first camera
-                event, message = await anext(subscription_oak0_imu)
+                try:
+                    event, message = await asyncio.wait_for(
+                        anext(subscription_oak0_imu), timeout=0.1)
+                except asyncio.TimeoutError:
+                    continue
+                except StopAsyncIteration:
+                    continue
 
                 for packet in message.packets:
                     node.send_output(

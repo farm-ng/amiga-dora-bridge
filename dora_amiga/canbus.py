@@ -41,7 +41,13 @@ async def run_canbus_bridge() -> None:
         if event["type"] == "INPUT":
             if event["id"] == "tick":
                 # decode and send the image from the first camera
-                event, message = await anext(subscriptions)
+                try:
+                    event, message = await asyncio.wait_for(
+                        anext(subscriptions), timeout=0.1)
+                except asyncio.TimeoutError:
+                    continue
+                except StopAsyncIteration:
+                    continue
 
                 # get the timestamp when the message was received by the driver
                 timestamp = event.timestamps[0]
