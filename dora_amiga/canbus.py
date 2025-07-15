@@ -10,8 +10,8 @@ from farm_ng.core.events_file_reader import proto_from_json_file
 import pyarrow as pa
 
 
-async def run_gps_bridge() -> None:
-    """Main function for the Amiga GPS bridge."""
+async def run_canbus_bridge() -> None:
+    """Main function for the Amiga CANbus bridge."""
     service_config_path = Path(__file__).parent / "service_config.json"
 
     # Load the service config
@@ -51,8 +51,8 @@ async def run_gps_bridge() -> None:
                 )
 
 def main() -> None:
-    """Main function for the Amiga GPS bridge."""
-    asyncio.run(run_gps_bridge())
+    """Main function for the Amiga CANbus bridge."""
+    asyncio.run(run_canbus_bridge())
 
 if __name__ == "__main__":
     main()

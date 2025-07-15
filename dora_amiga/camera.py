@@ -38,7 +38,7 @@ async def run_camera_bridge() -> None:
     client_oak0 = EventClient(configs["oak0"])
     client_oak1 = EventClient(configs["oak1"])
 
-    # Subscribe to the camera service
+    # Subscribe to the camera service streams
     subscription_oak0 = client_oak0.subscribe(configs["oak0"].subscriptions[0], decode=True)
     subscription_oak1 = client_oak1.subscribe(configs["oak1"].subscriptions[0], decode=True)
 

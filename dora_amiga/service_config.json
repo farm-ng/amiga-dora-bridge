@@ -12,6 +12,13 @@
                         "query": "service_name=oak0"
                     },
                     "every_n": 1
+                },
+                {
+                    "uri": {
+                        "path": "/imu",
+                        "query": "service_name=oak0"
+                    },
+                    "every_n": 1
                 }
             ]
         },
@@ -24,6 +31,13 @@
                 {
                     "uri": {
                         "path": "/rgb",
+                        "query": "service_name=oak1"
+                    },
+                    "every_n": 1
+                },
+                {
+                    "uri": {
+                        "path": "/imu",
                         "query": "service_name=oak1"
                     },
                     "every_n": 1

@@ -1,3 +1,7 @@
+[build-system]
+requires = ["setuptools >= 61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
 [project]
 name = "dora-amiga"
 version = "0.0.1"
@@ -23,6 +27,7 @@ dev = ["pytest >=8.1.1", "ruff >=0.9.1"]
 dora-amiga-camera = "dora_amiga.camera:main"
 dora-amiga-gps = "dora_amiga.gps:main"
 dora-amiga-canbus = "dora_amiga.canbus:main"
+dora-amiga-imu = "dora_amiga.imu:main"
 
 [tool.ruff.lint]
 extend-select = [
