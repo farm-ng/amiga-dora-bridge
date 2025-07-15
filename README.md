@@ -55,7 +55,7 @@ Explore the dora nodes-hub to start using the latest great AI models.
 Start your data pipeline with:
 
 ```bash
-dora run examples/dataflow.yaml
+dora run examples/dataflow.yaml --uv
 ```
 
 ## 📝 License

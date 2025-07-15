@@ -1,5 +1,7 @@
 # Ignore the service config file
-examples/out
+**/out/
+uv.lock
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

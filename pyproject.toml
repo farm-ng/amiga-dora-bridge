@@ -17,7 +17,6 @@ dependencies = [
     "kornia_rs",
     "opencv-python",
     "numpy",
-    "pyarrow",
 ]
 
 [dependency-groups]
