@@ -1,6 +1,6 @@
 nodes:
   - id: camera
-    build: pip install -e ../dora_amiga
+    build: pip install -e ../
     path: dora-amiga-camera
     inputs:
       tick: dora/timer/millis/30
@@ -8,22 +8,24 @@ nodes:
       - oak0/rgb
       - oak1/rgb
   - id: imu
-    build: pip install -e ../dora_amiga
+    build: pip install -e ../
     path: dora-amiga-imu
     inputs:
       tick: dora/timer/millis/100
     outputs:
-      - oak0/imu
-      - oak1/imu
+      - oak0/imu/gyro
+      - oak0/imu/accel
+      - oak1/imu/gyro
+      - oak1/imu/accel
   - id: gps
-    build: pip install -e ../dora_amiga
+    build: pip install -e ../
     path: dora-amiga-gps
     inputs:
       tick: dora/timer/millis/100
     outputs:
       - gps/pvt
   - id: canbus
-    build: pip install -e ../dora_amiga
+    build: pip install -e ../
     path: dora-amiga-canbus
     inputs:
       tick: dora/timer/millis/100

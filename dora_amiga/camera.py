@@ -12,7 +12,6 @@ import cv2
 import numpy as np
 import pyarrow as pa
 
-
 async def next_event_and_decode(subscription):
     """Get the next event from the subscription and decode the image."""
     # await the next event containing the image

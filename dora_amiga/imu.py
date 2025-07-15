@@ -9,6 +9,13 @@ from farm_ng.core.event_service_pb2 import EventServiceConfigList
 from farm_ng.core.events_file_reader import proto_from_json_file
 import pyarrow as pa
 
+imu_schema = pa.schema([
+    ("timestamp_device", pa.timestamp("ns")),
+    ("x", pa.float64()),
+    ("y", pa.float64()),
+    ("z", pa.float64()),
+])
+
 async def run_imu_bridge() -> None:
     """Main function for the Amiga IMU bridge."""
     service_config_path = Path(__file__).parent / "service_config.json"
@@ -34,10 +41,36 @@ async def run_imu_bridge() -> None:
     for event in node:
         if event["type"] == "INPUT":
             if event["id"] == "tick":
-                # decode and send the image from the first camera
+                # decode and send the IMU data from the first camera
                 event, message = await anext(subscription_oak0_imu)
-                print(message)
 
+                for packet in message.packets:
+                    node.send_output(
+                        "oak0/imu/gyro",
+                        pa.array([
+                            packet.gyro_packet.timestamp_device,
+                            packet.gyro_packet.gyro.x,
+                            packet.gyro_packet.gyro.y,
+                            packet.gyro_packet.gyro.z,
+                        ]),
+                        metadata={
+                            "schema": imu_schema.to_string(),
+                            "content_type": "imu/gyro",
+                        }
+                    )
+                    node.send_output(
+                        "oak0/imu/accel",
+                        pa.array([
+                            packet.accelero_packet.timestamp_device,
+                            packet.accelero_packet.accelero.x,
+                            packet.accelero_packet.accelero.y,
+                            packet.accelero_packet.accelero.z,
+                        ]),
+                        metadata={
+                            "schema": imu_schema.to_string(),
+                            "content_type": "imu/accel",
+                        }
+                    )
 
 def main() -> None:
     """Main function for the Amiga IMU bridge."""

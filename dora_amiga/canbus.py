@@ -9,6 +9,13 @@ from farm_ng.core.event_service_pb2 import EventServiceConfigList
 from farm_ng.core.events_file_reader import proto_from_json_file
 import pyarrow as pa
 
+canbus_schema = pa.schema([
+    ("timestamp_device", pa.timestamp("ns")),
+    ("linear_velocity_x", pa.float64()),
+    ("linear_velocity_y", pa.float64()),
+    ("angular_velocity", pa.float64()),
+])
+
 
 async def run_canbus_bridge() -> None:
     """Main function for the Amiga CANbus bridge."""
@@ -43,10 +50,10 @@ async def run_canbus_bridge() -> None:
                 # send the twist2d message
                 node.send_output(
                     "twist",
-                    pa.array([message.linear_velocity_x, message.linear_velocity_y, message.angular_velocity]),
+                    pa.array([timestamp.stamp, message.linear_velocity_x, message.linear_velocity_y, message.angular_velocity]),
                     metadata={
-                        "schema": "Twist2d:vx,vy,w",
-                        "stamp": timestamp.stamp,
+                        "schema": canbus_schema.to_string(),
+                        "content_type": "canbus/twist",
                     }
                 )
 
