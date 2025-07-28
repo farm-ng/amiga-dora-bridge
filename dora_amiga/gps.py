@@ -42,7 +42,6 @@ async def run_gps_bridge() -> None:
                     continue
 
                 # TODO: send the message to the next node
-                # print(event)
                 # print(message)
 
 def main() -> None:

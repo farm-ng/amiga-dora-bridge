@@ -17,6 +17,7 @@ dependencies = [
     "kornia_rs",
     "opencv-python",
     "numpy",
+    "foxglove-sdk"
 ]
 
 [dependency-groups]
@@ -27,6 +28,7 @@ dora-amiga-camera = "dora_amiga.camera:main"
 dora-amiga-gps = "dora_amiga.gps:main"
 dora-amiga-canbus = "dora_amiga.canbus:main"
 dora-amiga-imu = "dora_amiga.imu:main"
+dora-amiga-foxglove = "dora_amiga.foxglove:main"
 
 [tool.ruff.lint]
 extend-select = [

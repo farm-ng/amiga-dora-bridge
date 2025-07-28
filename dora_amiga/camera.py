@@ -65,7 +65,7 @@ async def run_camera_bridge() -> None:
                         "width": image_rgb8.shape[1],
                         "height": image_rgb8.shape[0],
                         "sequence_num": message.meta.sequence_num,
-                        "stamp": message.meta.timestamp,
+                        "timestamp": message.meta.timestamp,
                     }
                 )
 
@@ -87,7 +87,7 @@ async def run_camera_bridge() -> None:
                         "width": image_rgb8.shape[1],
                         "height": image_rgb8.shape[0],
                         "sequence_num": message.meta.sequence_num,
-                        "stamp": message.meta.timestamp,
+                        "timestamp": message.meta.timestamp,
                     }
                 )
 
