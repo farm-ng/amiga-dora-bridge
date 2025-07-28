@@ -31,3 +31,14 @@ nodes:
       tick: dora/timer/millis/100
     outputs:
       - twist
+  - id: foxglove
+    build: pip install -e ../
+    path: dora-amiga-foxglove
+    inputs:
+      oak0/rgb: camera/oak0/rgb
+      oak1/rgb: camera/oak1/rgb
+      oak0/imu/gyro: imu/oak0/imu/gyro
+      oak0/imu/accel: imu/oak0/imu/accel
+      oak1/imu/gyro: imu/oak1/imu/gyro
+      oak1/imu/accel: imu/oak1/imu/accel
+      twist: canbus/twist

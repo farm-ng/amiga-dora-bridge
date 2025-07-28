@@ -20,6 +20,10 @@ The `amiga-dora-bridge` provides a comprehensive bridge between the Farm-ng Amig
 - **🧭 IMU Bridge** (`dora-amiga-imu`) - Streams gyroscope and accelerometer data
 - **🚗 CAN Bus Bridge** (`dora-amiga-canbus`) - Interfaces with vehicle control system
 
+### Visualization
+
+- **Foxglove** (`dora-amiga-foxglove`) - Visualizes sensor data in real-time using [Foxglove](https://foxglove.dev/)
+
 ## 🛠️ Installation
 
 ### Prerequisites
@@ -57,6 +61,12 @@ Start your data pipeline with:
 ```bash
 dora run examples/dataflow.yaml --uv
 ```
+
+## Visualization
+
+1. Go to https://app.foxglove.dev/
+2. Open a new connection, choose Foxglove Websockt: ws://localhost:8080
+3. Customize your layout
 
 ## 📝 License
 
